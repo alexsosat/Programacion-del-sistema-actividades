@@ -1,0 +1,4 @@
+﻿  Act1.cpp
+D:\Proyectos\Progra\Lab2\Lab2\Act1.cpp(17,27): warning C4018: '<': no coinciden signed/unsigned
+D:\Proyectos\Progra\Lab2\Lab2\Act1.cpp(70,27): warning C4018: '<': no coinciden signed/unsigned
+  Lab2.vcxproj -> D:\Proyectos\Progra\Lab2\Debug\Lab2.exe
